@@ -1,2 +1,2 @@
-# lab_1_version_control
-Лаб. 1 Робота з версійним контролем (Git)
+# simple-telegram-bot
+Simple Telegram bot on Java / Spring Boot
